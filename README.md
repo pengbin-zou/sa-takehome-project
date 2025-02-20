@@ -15,11 +15,11 @@ This project is a **simple e-commerce checkout system** that integrates **Stripe
 
 ## 📌 Table of Contents
 
-- [🔧 Installation & Setup](#installation--setup)  
+- [🔧 Installation & Setup](#installation-setup)  
 - [⚙️ How It Works](#how-it-works)  
 - [🏗️ Project Structure](#project-structure)  
 - [🔬 Technical Implementation](#technical-implementation)  
-- [🚧 Challenges & Learnings](#challenges--learnings)  
+- [🚧 Challenges & Learnings](#challenges-learnings)  
 - [🔮 Future Enhancements](#future-enhancements)  
 
 
